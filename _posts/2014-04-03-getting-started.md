@@ -15,7 +15,7 @@ By default, your integration tests will run on [PhantomJS](http://phantomjs.org/
 npm install -g phantomjs
 {% endhighlight %}
 
-#### Node.js
+#### Node.JS
 
 If you don't already have Node installed, you can get it from
 [nodejs.org](http://nodejs.org/) or your package manager of choice (including
